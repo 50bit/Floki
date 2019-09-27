@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/hiesenberg/Desktop/Ionic/Floki/platforms/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-az/values-az.xml",
+            "map": [
+                {
+                    "source": "/home/hiesenberg/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/a10585a876e584f37b7b8c31dbb562e7/res/values-az/values-az.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
